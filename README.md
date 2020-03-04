@@ -8,7 +8,7 @@ https://matrix.to/#/!NZiaAxaPaxjbtgvMtG:matrix.org?via=matrix.org
 
 ## Risorse
 
-- blog di lu_zero https://dev.to/luzero/oxidizing-code-o2f
+- blog post di lu_zero https://dev.to/luzero/oxidizing-code-o2f
 - c2rust https://github.com/immunant/c2rust
 - esempio di progetto ossidato https://github.com/rust-av/speexdsp-rs
 
