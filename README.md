@@ -14,8 +14,9 @@ https://matrix.to/#/!NZiaAxaPaxjbtgvMtG:matrix.org?via=matrix.org
 
 ## Possibili progetti C da ossidare
 
-Perchè son piccoli, non hanno dipendenze e/o hanno i test 
+Perchè son piccoli, non hanno dipendenze e possibilmente hanno i test 
 
 - https://github.com/antirez/linenoise
 - https://github.com/nodejs/http-parser
 
+Qua ci sono vari ed eventuali https://github.com/nothings/single_file_libs
