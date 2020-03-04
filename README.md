@@ -10,6 +10,7 @@ Il piano della serata è di vedere come si ossidano progetti in C in teoria ma s
 
 ## Possibili progetti C da ossidare
 
-Perchè son piccoli, non hanno dipendenze e hanno i test 
+Perchè son piccoli, non hanno dipendenze e/o hanno i test 
 
+- https://github.com/antirez/linenoise
 - https://github.com/nodejs/http-parser
