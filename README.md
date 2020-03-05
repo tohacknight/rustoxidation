@@ -18,5 +18,6 @@ Perchè son piccoli, non hanno dipendenze e possibilmente hanno i test
 
 - https://github.com/antirez/linenoise
 - https://github.com/nodejs/http-parser
+- https://github.com/ariya/FastLZ
 
 Qua ci sono vari ed eventuali https://github.com/nothings/single_file_libs
