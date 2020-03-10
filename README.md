@@ -22,3 +22,8 @@ Perchè son piccoli, non hanno dipendenze e possibilmente hanno i test
 - https://github.com/ariya/FastLZ
 
 Qua ci sono vari ed eventuali https://github.com/nothings/single_file_libs
+
+Altri più grossi:
+
+- https://github.com/tree-sitter/tree-sitter
+- https://github.com/microsoft/mimalloc
