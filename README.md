@@ -17,6 +17,7 @@ https://matrix.to/#/!NZiaAxaPaxjbtgvMtG:matrix.org?via=matrix.org
 
 Perchè son piccoli, non hanno dipendenze e possibilmente hanno i test 
 
+- https://github.com/starwing/amoeba
 - https://github.com/antirez/linenoise
 - https://github.com/nodejs/http-parser
 - https://github.com/ariya/FastLZ
