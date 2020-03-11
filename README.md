@@ -1,6 +1,7 @@
 # Rust Oxidation
 
-Il piano della serata è di vedere come si ossidano progetti in C in teoria ma soprattutto in pratica
+Il piano della serata è di vedere come si ossidano progetti in C in teoria ma soprattutto in pratica.
+Andremo a lavorare su https://github.com/rust-torino/uastar-rs, libreria già ossidata da @dodomorandi, per renderla più idiomatica.
 
 ## Chat per la serata
 
