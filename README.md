@@ -9,8 +9,8 @@ https://matrix.to/#/!NZiaAxaPaxjbtgvMtG:matrix.org?via=matrix.org
 ## Risorse
 
 - blog post di lu_zero https://dev.to/luzero/oxidizing-code-o2f
-- c2rust https://github.com/immunant/c2rust
-- binari c2rust https://github.com/rust-torino/c2rust-bins
+- repository di c2rust se vuoi compilarlo https://github.com/immunant/c2rust
+- binari di c2rust per linux e mac os https://github.com/rust-torino/c2rust-bins
 - esempio di progetto ossidato https://github.com/rust-av/speexdsp-rs
 
 ## Possibili progetti C da ossidare
