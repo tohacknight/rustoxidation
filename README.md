@@ -11,6 +11,7 @@ https://matrix.to/#/!NZiaAxaPaxjbtgvMtG:matrix.org?via=matrix.org
 
 - blog post di lu_zero https://dev.to/luzero/oxidizing-code-o2f
 - repository di c2rust se vuoi compilarlo https://github.com/immunant/c2rust
+- Dockerfile per compilare c2rust da alex179ohm https://gist.github.com/alex179ohm/b5d0a39e4bd7a76c17a8cfef65940f6b
 - binari di c2rust per linux e mac os https://github.com/rust-torino/c2rust-bins
 - esempio di progetto ossidato https://github.com/rust-av/speexdsp-rs
 
