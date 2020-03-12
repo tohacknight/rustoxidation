@@ -30,3 +30,14 @@ Altri più grossi:
 
 - https://github.com/tree-sitter/tree-sitter
 - https://github.com/microsoft/mimalloc
+
+
+## Usare c2rust da Docker
+Immagine docker pre-buildata (grazie al Dockerfile di alex179ohm, vedi sopra)
+
+Nella cartella con i sorgenti di interesse dare:
+
+```bash
+docker run --rm -v ${PWD}:/app -e USER=$( id -u ) -e GROUP=$( id -g ) -it docker.pkg.github.com/tohacknight/rustoxidation/docker-c2rust bash
+```
+

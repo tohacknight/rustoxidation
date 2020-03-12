@@ -1,0 +1,19 @@
+name: build-docker-image
+
+on:
+  push:
+    paths:
+    - 'Dockerfile'
+
+jobs:
+  build:
+    runs-on: ubuntu-18.04
+    steps:
+    - uses: actions/checkout@v1
+    - name: Build the Docker image
+      run: docker build --tag docker.pkg.github.com/tohacknight/rustoxidation/docker-c2rust .
+    - name: Push image to registry
+      run: |
+        docker login docker.pkg.github.com --username tohacknight --password "${{secrets.GITHUB_TOKEN}}"
+        docker push docker.pkg.github.com/tohacknight/rustoxidation/docker-c2rust
+
