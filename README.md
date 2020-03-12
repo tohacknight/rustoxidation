@@ -34,6 +34,11 @@ Altri più grossi:
 
 ## Usare c2rust da Docker
 Immagine docker pre-buildata (grazie al Dockerfile di alex179ohm, vedi sopra)
+Ospitata qui sul repo:
+
+```bash
+docker pull docker.pkg.github.com/tohacknight/rustoxidation/docker-c2rust:latest
+```
 
 Nella cartella con i sorgenti di interesse dare:
 
