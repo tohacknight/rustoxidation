@@ -31,6 +31,9 @@ Altri più grossi:
 - https://github.com/tree-sitter/tree-sitter
 - https://github.com/microsoft/mimalloc
 
+## Progetti già ossidati ma che necessitano di lavoro
+
+- FastLZ-rs [https://github.com/baldoalessandro/fastlz-rs](https://github.com/baldoalessandro/fastlz-rs)
 
 ## Usare c2rust da Docker
 Immagine docker pre-buildata (grazie al Dockerfile di alex179ohm, vedi sopra)
